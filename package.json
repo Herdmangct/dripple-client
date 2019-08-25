@@ -2,7 +2,7 @@
   "name": "dripple-client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://meowsoso.github.io/dripple-client",
+  "homepage": "https://herdmangct.github.io/dripple-client",
   "dependencies": {
     "@material-ui/core": "^4.3.2",
     "@material-ui/icons": "^4.2.1",
